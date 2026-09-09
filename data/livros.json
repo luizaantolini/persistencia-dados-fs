@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "ano": 1954,
+    "lido": true
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "ano": 1948,
+    "lido": false
+  },
+  {
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "ano": 1943,
+    "lido": true
+  }
+]
